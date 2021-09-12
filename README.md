@@ -2,9 +2,6 @@
 
 Coronavirus (COVID-19) Tracker Dashboard with Data from API - HTML CSS JavaScript
 
-## Video coding
-
-https://youtu.be/EoK2nIS1Zi4
 
 ## Preview
 
